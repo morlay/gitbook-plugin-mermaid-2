@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-mermaid-2",
+  "description": "Plugin for GitBook which renders Mermaid flow from markdown.",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "bower": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morlay/gitbook-plugin-mermaid-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morlay/gitbook-plugin-mermaid-2/issues"
+  },
+  "homepage": "https://github.com/morlay/gitbook-plugin-mermaid-2#readme"
+}

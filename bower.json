@@ -1,0 +1,13 @@
+{
+  "name": "gitbook-plugin-mermaid-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mermaid": "~0.5.1"
+  }
+}
