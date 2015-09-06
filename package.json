@@ -2,12 +2,12 @@
   "name": "gitbook-plugin-mermaid-2",
   "description": "Plugin for GitBook which renders Mermaid flow from markdown.",
   "main": "index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "gitbook": "*"
   },
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install --allow-root"
   },
   "dependencies": {
     "bower": "*"
