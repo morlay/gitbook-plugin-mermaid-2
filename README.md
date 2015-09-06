@@ -14,7 +14,12 @@ And use it for your book with in the book.json:
 
 ```
 {
-    "plugins": ["mermaid-2"]
+    "plugins": ["mermaid-2"],
+    "pluginsConfig": {
+      "mermaid-2": {
+         "theme": "forest" // here to change the mermaid theme
+      }
+    }
 }
 ```
 
