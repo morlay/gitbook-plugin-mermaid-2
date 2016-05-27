@@ -31,6 +31,7 @@ module.exports = {
       'bower_components/mermaid/dist/mermaid.css'
     ],
     js: [
+      'bower_components/mermaid/dist/mermaid.min.js',
       'plugin.js'
     ],
     html: {
