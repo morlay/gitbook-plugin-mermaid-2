@@ -8,6 +8,6 @@
     "tests"
   ],
   "dependencies": {
-    "mermaid": "~0.5.1"
+    "mermaid": "~6.0.0"
   }
 }
