@@ -4,7 +4,7 @@
   "main": "index.js",
   "version": "0.0.3",
   "engines": {
-    "gitbook": "*"
+    "gitbook": ">1.x.x"
   },
   "scripts": {
     "postinstall": "bower install --allow-root"
